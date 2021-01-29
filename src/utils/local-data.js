@@ -1,0 +1,22 @@
+export const headerLinks=[
+    {
+        titles:'音乐馆',
+        link:"/discover"
+    },
+    {
+        titles:'我的音乐',
+        link:"/mine"
+    },
+    {
+        titles:'客户端',
+        link:"/https://y.qq.com/download/index.html"
+    },
+    {
+        titles:'开放平台',
+        link:"/open"
+    },
+    {
+        titles:'vip',
+        link:"/vip"
+    },   
+]
